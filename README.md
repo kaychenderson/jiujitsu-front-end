@@ -47,3 +47,7 @@ python app.py
 ```bash
 python3 app.py
 ```
+<br />
+
+> [!IMPORTANT]\
+> Este projeto está relacionado ao projeto [jiujitsu-back-end](https://github.com/kaychenderson/jiujitsu-back-end). É necessário ter a API do projeto rodando simultaneamente.
